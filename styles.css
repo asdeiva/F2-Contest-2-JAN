@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+.page{
+    color: white;
+    padding: 50px;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.form{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+.form .name{
+    display: block;
+}
+.mgs{
+    display:block;
+}
